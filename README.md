@@ -34,7 +34,7 @@ I'm passionate about programming, Data Science, Artificial Intelligence and Mach
 
 - [GitHub](https://github.com/rudra-prasad-panigrahi)
 - [LeetCode](https://leetcode.com/u/nhHRDep434/)
-- [LinkedIn]([PASTE_YOUR_LINKEDIN_URL_HERE](https://www.linkedin.com/in/rudra-prasad-panigrahi-323491321/))
+- [LinkedIn]([PASTE_YOUR_LINKEDIN_URL_HERE](https://www.linkedin.com/in/rudra-prasad-panigrahi-323491321/)
 ---
 
 ⭐ Thanks for visiting my profile!
